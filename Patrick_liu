@@ -1,0 +1,6 @@
+echo "# https-github.com-corelogic-avm-modelx-mongo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/phliu2018/https-github.com-corelogic-avm-modelx-mongo.git
+git push -u origin master
